@@ -620,8 +620,108 @@
             "vote_count": 67100000,
             "poster_path": "https://image.tmdb.org/t/p/w500/qPQFWrLoQY6t0b3OxLbK3ULiHcT.jpg",
             "type_movie": "Science Fiction, Action"
+        },
+        {
+            "id": 63,
+            "title": "Mad Max: Fury Road",
+            "overview": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search of her homeland with the help of a group of female prisoners, a psychotic worshiper, and a drifter named Max.",
+            "release_date": "2015-05-15",
+            "vote_average": 8.1,
+            "vote_count": 8500000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/kqjL17yufvn9OVLyXYpvtyrFfak.jpg",
+            "type_movie": "Action, Adventure, Science Fiction"
+        },
+        {
+            "id": 64,
+            "title": "The Revenant",
+            "overview": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
+            "release_date": "2015-12-25",
+            "vote_average": 7.5,
+            "vote_count": 16000000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/oXUWEc5i3wYyFnL1Ycu8ppxxPvs.jpg",
+            "type_movie": "Adventure, Drama, Thriller, Western"
+        },
+        {
+            "id": 65,
+            "title": "Star Wars: The Force Awakens",
+            "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+            "release_date": "2015-12-18",
+            "vote_average": 7.4,
+            "vote_count": 12300000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/weUSwMdQIa3NaXVzwUoIIcAi85d.jpg",
+            "type_movie": "Action, Adventure, Science Fiction, Fantasy"
+        },
+        {
+            "id": 66,
+            "title": "The Martian",
+            "overview": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit, and spirit to subsist and find a way to signal to Earth that he is alive.",
+            "release_date": "2015-09-30",
+            "vote_average": 7.7,
+            "vote_count": 11000000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/5BHuvQ6p9kfc091Z8l0WxK5sQFF.jpg",
+            "type_movie": "Drama, Adventure, Science Fiction"
+        },
+        {
+            "id": 67,
+            "title": "Inside Out",
+            "overview": "Growing up can be a bumpy road, and it's no exception for Riley, who is uprooted from her Midwest life when her father starts a new job in San Francisco. Like all of us, Riley is guided by her emotions - Joy, Fear, Anger, Disgust, and Sadness. The emotions live in Headquarters, the control center inside Riley's mind, where they help advise her through everyday life. As Riley and her emotions struggle to adjust to a new life in San Francisco, turmoil ensues in Headquarters. Although Joy, Riley's main and most important emotion, tries to keep things positive, the emotions conflict on how best to navigate a new city, house, and school.",
+            "release_date": "2015-06-09",
+            "vote_average": 7.9,
+            "vote_count": 10100000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/aAmfIX3TT40zUHGcCKrlOZRKC7u.jpg",
+            "type_movie": "Animation, Family, Adventure, Comedy, Drama"
+        },
+        {
+            "id": 68,
+            "title": "La La Land",
+            "overview": "Mia, an aspiring actress, serves lattes to movie stars in between auditions, and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts, they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+            "release_date": "2016-11-29",
+            "vote_average": 7.9,
+            "vote_count": 12900000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+            "type_movie": "Comedy, Drama, Romance, Music"
+        },
+        {
+            "id": 69,
+            "title": "Doctor Strange",
+            "overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+            "release_date": "2016-10-25",
+            "vote_average": 7.4,
+            "vote_count": 11000000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/4PiiNGXj1KENTmCBHeN6Mskj2Fq.jpg",
+            "type_movie": "Action, Adventure, Fantasy, Science Fiction"
+        },
+        {
+            "id": 70,
+            "title": "Deadpool",
+            "overview": "Deadpool tells the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+            "release_date": "2016-02-09",
+            "vote_average": 7.6,
+            "vote_count": 18000000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/inVq3FRqcYIRl2la8iZikYYxFNR.jpg",
+            "type_movie": "Action, Adventure, Comedy"
+        },
+        {
+            "id": 71,
+            "title": "La La Land",
+            "overview": "Mia, an aspiring actress, serves lattes to movie stars in between auditions, and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts, they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+            "release_date": "2016-11-29",
+            "vote_average": 7.9,
+            "vote_count": 12900000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+            "type_movie": "Comedy, Drama, Romance, Music"
+        },
+        {
+            "id": 72,
+            "title": "Get Out",
+            "overview": "Chris and his girlfriend Rose go upstate to visit her parents for the weekend. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.",
+            "release_date": "2017-02-24",
+            "vote_average": 7.5,
+            "vote_count": 14900000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/1SwAVYpuLj8KsHxllTF8Dt9dSSX.jpg",
+            "type_movie": "Mystery, Thriller, Horror"
         }
     ],
     "total_pages": 1,
-    "total_results": 62
+    "total_results": 72
 }
