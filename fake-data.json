@@ -720,8 +720,98 @@
             "vote_count": 14900000,
             "poster_path": "https://image.tmdb.org/t/p/w500/1SwAVYpuLj8KsHxllTF8Dt9dSSX.jpg",
             "type_movie": "Mystery, Thriller, Horror"
+        },
+        {
+            "id": 73,
+            "title": "The Invisible Man (2020)",
+            "overview": "Cecilia Kass seems to be free of her abusive ex-boyfriend. But then, he dies by suicide, and she starts to suspect that he may not be gone after all. When a series of strange occurrences plague her, Cecilia tries to convince people around her that she's being stalked by someone unseen. But as the events escalate, and as no one else believes her, Cecilia begins to question her own sanity and grasp on reality.",
+            "release_date": "2020-02-25",
+            "vote_average": 7.1,
+            "vote_count": 534000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/hNrkIPyfoSOvYzKtqPnYCgFCXOX.jpg",
+            "type_movie": "Thriller, Mystery"
+        },
+        {
+            "id": 74,
+            "title": "Palm Springs (2020)",
+            "overview": "Nyles punctures the carefree vibe of a Palm Springs wedding when a chance encounter with Sarah turns into a time loop. Trapped reliving the same day over and over again, they develop a cynical understanding of their situation, but Nyles soon discovers there are limits to what they can do. Sarah, however, is determined to find a way to escape.",
+            "release_date": "2020-01-26",
+            "vote_average": 7.4,
+            "vote_count": 368000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/wrEKGBXSsb8A8f7JeL1VEuQzPpU.jpg",
+            "type_movie": "Comedy, Romance, Fantasy"
+        },
+        {
+            "id": 75,
+            "title": "Tenet (2020)",
+            "overview": "Armed with only a single word - Tenet - and fighting for the survival of the entire world, a nameless protagonist journeys through a dangerous world of espionage, international conflict, and reality-bending time manipulation.",
+            "release_date": "2020-09-03",
+            "vote_average": 7.3,
+            "vote_count": 1241000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/kTENvZVDvND7J7FA0gqFXmM2vQP.jpg",
+            "type_movie": "Action, Sci-Fi, Thriller"
+        },
+        {
+            "id": 76,
+            "title": "Soul (2020)",
+            "overview": "Joe Gardner, a middle-aged musician whose dreams of becoming a jazz pianist have been deferred for years, gets the chance of a lifetime to play at the Half Note Club. But one small misstep takes him from the streets of New York City to The Great Before - a fantastical realm where souls are prepared for Earth before they take human form. Determined to get back to his life, Joe teams up with 22, a rebellious soul who has never understood the appeal of living on Earth. Together, they embark on a remarkable journey that will challenge their very notions of life, death, and what it means to have a soul.",
+            "release_date": "2020-12-25",
+            "vote_average": 8.4,
+            "vote_count": 1243000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/kmXuFtTvuKg4z1uNcsRJvSUAIff.jpg",
+            "type_movie": "Animation, Adventure, Comedy, Family, Fantasy"
+        },
+        {
+            "id": 77,
+            "title": "Everything Everywhere All at Once (2022)",
+            "overview": "An aging Chinese immigrant is swept up in an insane adventure where she alone can save the world by connecting with parallel universes and existences.",
+            "release_date": "2022-03-25",
+            "vote_average": 8.9,
+            "vote_count": 384000,
+            "poster_path": "[invalid URL removed]",
+            "type_movie": "Action, Adventure, Comedy, Drama, Fantasy"
+        },
+        {
+            "id": 78,
+            "title": "Judas and the Black Messiah (2021)",
+            "overview": "Fred Hampton, a charismatic leader who preached unity and empowerment, rose to become chairman of the Illinois Black Panther Party chapter. Threatened by his influence, the FBI orchestrated a secret deal with petty criminal William O'Neal to infiltrate the Black Panthers. O'Neal's actions would be the catalyst for a night of bloodshed that would change Fred Hampton's life, and the course of American history.",
+            "release_date": "2021-02-12",
+            "vote_average": 7.5,
+            "vote_count": 428000,
+            "poster_path": "[invalid URL removed]",
+            "type_movie": "Biography, Drama, History, Crime, Thriller"
+        },
+        {
+            "id": 79,
+            "title": "Dune (2021)",
+            "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's only valuable resource, a coveted spice with explosive power, Paul must confront his deepest fears and unlock his fate.",
+            "release_date": "2021-09-15",
+            "vote_average": 8.1,
+            "vote_count": 789000,
+            "poster_path": "[invalid URL removed]",
+            "type_movie": "Adventure, Sci-Fi, Drama"
+        },
+        {
+            "id": 80,
+            "title": "The Batman (2022)",
+            "overview": "In his second year of fighting crime, Batman uncovers corruption that connects to his own family's sordid past and must confront the Riddler, a sadistic serial killer who leaves behind cryptic puzzles as he targets Gotham City's elite.",
+            "release_date": "2022-03-04",
+            "vote_average": 7.7,
+            "vote_count": 582000,
+            "poster_path": "[invalid URL removed]",
+            "type_movie": "Action, Crime, Drama, Mystery, Thriller"
+        },
+        {
+            "id": 81,
+            "title": "Elvis (2022)",
+            "overview": "The story of the King of Rock and Roll, Elvis Presley, from his early days as a charismatic singer to his ascent as a global icon and his struggle to stay relevant.",
+            "release_date": "2022-06-24",
+            "vote_average": 7.7,
+            "vote_count": 321000,
+            "poster_path": "[invalid URL removed]",
+            "type_movie": "Biography, Drama, Music"
         }
     ],
     "total_pages": 1,
-    "total_results": 72
+    "total_results": 81
 }
