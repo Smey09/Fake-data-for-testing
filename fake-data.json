@@ -621,5 +621,7 @@
             "poster_path": "https://image.tmdb.org/t/p/w500/qPQFWrLoQY6t0b3OxLbK3ULiHcT.jpg",
             "type_movie": "Science Fiction, Action"
         }
-    ]
+    ],
+    "total_pages": 1,
+    "total_results": 62
 }
