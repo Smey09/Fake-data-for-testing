@@ -8,7 +8,8 @@
             "release_date": "1994-09-23",
             "vote_average": 8.7,
             "vote_count": 23453,
-            "poster_path": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg"
+            "poster_path": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+            "type_movie": "Drama"
         },
         {
             "id": 2,
@@ -17,7 +18,8 @@
             "release_date": "1972-03-14",
             "vote_average": 8.6,
             "vote_count": 17492,
-            "poster_path": "https://image.tmdb.org/t/p/w500/iVZ3JAcAjmguGPnRNfWFOtLHOuY.jpg"
+            "poster_path": "https://image.tmdb.org/t/p/w500/iVZ3JAcAjmguGPnRNfWFOtLHOuY.jpg",
+            "type_movie": "Crime"
         },
         {
             "id": 3,
@@ -26,7 +28,8 @@
             "release_date": "2008-07-16",
             "vote_average": 8.5,
             "vote_count": 25561,
-            "poster_path": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+            "poster_path": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+            "type_movie": "Action"
         },
         {
             "id": 4,
@@ -35,7 +38,8 @@
             "release_date": "1993-11-30",
             "vote_average": 8.6,
             "vote_count": 13336,
-            "poster_path": "https://image.tmdb.org/t/p/w500/c8Ass7acuOe4za6DhSattE359gr.jpg"
+            "poster_path": "https://image.tmdb.org/t/p/w500/c8Ass7acuOe4za6DhSattE359gr.jpg",
+            "type_movie": "Biography"
         },
         {
             "id": 5,
@@ -44,7 +48,8 @@
             "release_date": "1994-09-10",
             "vote_average": 8.5,
             "vote_count": 22245,
-            "poster_path": "https://image.tmdb.org/t/p/w500/dM2w364MScsjFf8pfMbaWUcWrR.jpg"
+            "poster_path": "https://image.tmdb.org/t/p/w500/dM2w364MScsjFf8pfMbaWUcWrR.jpg",
+            "type_movie": "Crime"
         },
         {
             "id": 6,
@@ -53,7 +58,8 @@
             "release_date": "2003-12-01",
             "vote_average": 8.5,
             "vote_count": 20830,
-            "poster_path": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg"
+            "poster_path": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+            "type_movie": "Fantasy"
         },
         {
             "id": 7,
@@ -62,7 +68,8 @@
             "release_date": "1994-07-06",
             "vote_average": 8.5,
             "vote_count": 23243,
-            "poster_path": "https://image.tmdb.org/t/p/w500/h5J4W4veyxMXDMjeNxZI46TsHOb.jpg"
+            "poster_path": "https://image.tmdb.org/t/p/w500/h5J4W4veyxMXDMjeNxZI46TsHOb.jpg",
+            "type_movie": "Drama"
         },
         {
             "id": 8,
@@ -71,7 +78,8 @@
             "release_date": "1999-10-15",
             "vote_average": 8.4,
             "vote_count": 23234,
-            "poster_path": "https://image.tmdb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg"
+            "poster_path": "https://image.tmdb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg",
+            "type_movie": "Drama"
         },
         {
             "id": 9,
@@ -80,7 +88,8 @@
             "release_date": "2010-07-15",
             "vote_average": 8.3,
             "vote_count": 31149,
-            "poster_path": "https://image.tmdb.org/t/p/w500/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg"
+            "poster_path": "https://image.tmdb.org/t/p/w500/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg",
+            "type_movie": "Science Fiction"
         },
         {
             "id": 10,
@@ -89,7 +98,8 @@
             "release_date": "1999-03-30",
             "vote_average": 8.2,
             "vote_count": 21837,
-            "poster_path": "https://image.tmdb.org/t/p/w500/hEpWvX6Bp79eLxY1kX5ZZJcme5U.jpg"
+            "poster_path": "https://image.tmdb.org/t/p/w500/hEpWvX6Bp79eLxY1kX5ZZJcme5U.jpg",
+            "type_movie": "Science Fiction"
         },
         {
             "id": 11,
@@ -98,7 +108,8 @@
             "release_date": "1990-09-12",
             "vote_average": 8.4,
             "vote_count": 9665,
-            "poster_path": "https://image.tmdb.org/t/p/w500/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg"
+            "poster_path": "https://image.tmdb.org/t/p/w500/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+            "type_movie": "Crime"
         },
         {
             "id": 12,
@@ -107,7 +118,8 @@
             "release_date": "2001-12-18",
             "vote_average": 8.3,
             "vote_count": 20829,
-            "poster_path": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg"
+            "poster_path": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+            "type_movie": "Fantasy"
         },
         {
             "id": 13,
@@ -116,7 +128,8 @@
             "release_date": "1980-05-20",
             "vote_average": 8.4,
             "vote_count": 16169,
-            "poster_path": "https://image.tmdb.org/t/p/w500/2l05cFWJacyIsTpsqSgH0wQXe4V.jpg"
+            "poster_path": "https://image.tmdb.org/t/p/w500/2l05cFWJacyIsTpsqSgH0wQXe4V.jpg",
+            "type_movie": "Science Fiction"
         },
         {
             "id": 14,
@@ -125,7 +138,8 @@
             "release_date": "2014-11-05",
             "vote_average": 8.3,
             "vote_count": 25023,
-            "poster_path": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+            "poster_path": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+            "type_movie": "Science Fiction"
         },
         {
             "id": 15,
@@ -134,414 +148,58 @@
             "release_date": "2002-02-05",
             "vote_average": 8.4,
             "vote_count": 6078,
-            "poster_path": "https://image.tmdb.org/t/p/w500/4ybQ6gUq2sL9j5XY4dfeA6xKxZZ.jpg"
+            "poster_path": "https://image.tmdb.org/t/p/w500/4ybQ6gUq2sL9j5XY4dfeA6xKxZZ.jpg",
+            "type_movie": "Crime"
         },
         {
             "id": 16,
             "title": "Se7en",
             "overview": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
             "release_date": "1995-09-22",
-            "vote_average": 8.4,
-            "vote_count": 17795,
-            "poster_path": "https://image.tmdb.org/t/p/w500/69Sns8WoET6CfaYlIkHbla4l7nC.jpg"
+            "vote_average": 8.3,
+            "vote_count": 18567,
+            "poster_path": "https://image.tmdb.org/t/p/w500/69Sns8WoET6CfaYlIkHbla4l7nC.jpg",
+            "type_movie": "Thriller"
         },
         {
             "id": 17,
-            "title": "The Silence of the Lambs",
-            "overview": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to catch another serial killer, a madman who skins his victims.",
-            "release_date": "1991-02-14",
-            "vote_average": 8.3,
-            "vote_count": 13877,
-            "poster_path": "https://image.tmdb.org/t/p/w500/rlnR3NWGr9LTcuvZGs22FH6fFPp.jpg"
-        },
-        {
-            "id": 18,
-            "title": "It's a Wonderful Life",
-            "overview": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
-            "release_date": "1946-12-20",
-            "vote_average": 8.3,
-            "vote_count": 4470,
-            "poster_path": "https://image.tmdb.org/t/p/w500/bhBSzDjsXkHrWw9dUnZJCAkWbaD.jpg"
-        },
-        {
-            "id": 19,
-            "title": "The Green Mile",
-            "overview": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
-            "release_date": "1999-12-10",
-            "vote_average": 8.5,
-            "vote_count": 13930,
-            "poster_path": "https://image.tmdb.org/t/p/w500/velWPhVMQeQKcxggNEU8YmIo52R.jpg"
-        },
-        {
-            "id": 20,
-            "title": "Life Is Beautiful",
-            "overview": "When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.",
-            "release_date": "1997-12-20",
-            "vote_average": 8.5,
-            "vote_count": 10447,
-            "poster_path": "https://image.tmdb.org/t/p/w500/xVaAO08B5B0uTKyR8bgSi5K3rBb.jpg"
-        },
-        {
-            "id": 21,
-            "title": "Spirited Away",
-            "overview": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
-            "release_date": "2001-07-20",
-            "vote_average": 8.5,
-            "vote_count": 13500,
-            "poster_path": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg"
-        },
-        {
-            "id": 22,
             "title": "Saving Private Ryan",
             "overview": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
             "release_date": "1998-07-24",
             "vote_average": 8.2,
-            "vote_count": 13456,
-            "poster_path": "https://image.tmdb.org/t/p/w500/miDoEMlYDJhOCvxlzI0wZqBs9Yt.jpg"
+            "vote_count": 14596,
+            "poster_path": "https://image.tmdb.org/t/p/w500/miDoEMlYDJhOCvxlzI0wZqBs9Yt.jpg",
+            "type_movie": "War"
         },
         {
-            "id": 23,
-            "title": "The Usual Suspects",
-            "overview": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
-            "release_date": "1995-07-19",
-            "vote_average": 8.2,
-            "vote_count": 9146,
-            "poster_path": "https://image.tmdb.org/t/p/w500/bUPmtQzrRhzqYySeiMpv7GurAfm.jpg"
+            "id": 18,
+            "title": "Spirited Away",
+            "overview": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+            "release_date": "2001-07-20",
+            "vote_average": 8.5,
+            "vote_count": 13470,
+            "poster_path": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+            "type_movie": "Animation"
         },
         {
-            "id": 24,
-            "title": "Leon: The Professional",
-            "overview": "Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered.",
-            "release_date": "1994-09-14",
-            "vote_average": 8.3,
-            "vote_count": 11402,
-            "poster_path": "https://image.tmdb.org/t/p/w500/hv5Pz6K2ig93Srz0yi7WXhVImhk.jpg"
-        },
-        {
-            "id": 25,
-            "title": "Harakiri",
-            "overview": "An elder ronin samurai arrives at the Edo house of a feudal lord to request an honorable place to commit suicide.",
-            "release_date": "1962-09-15",
-            "vote_average": 8.3,
-            "vote_count": 517,
-            "poster_path": "https://image.tmdb.org/t/p/w500/5pKQBzBoGX4VvdQCi0z5T0xZn5W.jpg"
-        },
-        {
-            "id": 26,
+            "id": 19,
             "title": "Parasite",
             "overview": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
             "release_date": "2019-05-30",
             "vote_average": 8.5,
-            "vote_count": 15200,
-            "poster_path": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg"
+            "vote_count": 17118,
+            "poster_path": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+            "type_movie": "Thriller"
         },
         {
-            "id": 27,
-            "title": "Whiplash",
-            "overview": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
-            "release_date": "2014-10-10",
-            "vote_average": 8.4,
-            "vote_count": 12112,
-            "poster_path": "https://image.tmdb.org/t/p/w500/lIv1QinFqz4dlp5U4lQ6HaiskOZ.jpg"
-        },
-        {
-            "id": 28,
-            "title": "Gladiator",
-            "overview": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
-            "release_date": "2000-05-01",
-            "vote_average": 8.2,
-            "vote_count": 13005,
-            "poster_path": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg"
-        },
-        {
-            "id": 29,
-            "title": "The Lion King",
-            "overview": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
-            "release_date": "1994-06-23",
-            "vote_average": 8.3,
-            "vote_count": 15650,
-            "poster_path": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
-        },
-        {
-            "id": 30,
-            "title": "The Pianist",
-            "overview": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
-            "release_date": "2002-09-17",
-            "vote_average": 8.4,
-            "vote_count": 7778,
-            "poster_path": "https://image.tmdb.org/t/p/w500/2hFvxCCWRNdlh2wqNBKI2dhpN0D.jpg"
-        },
-        {
-            "id": 31,
-            "title": "First They Killed My Father",
-            "overview": "A 5-year-old girl recounts the horrors she suffered as a child under the rule of the Khmer Rouge.",
-            "release_date": "2017-09-15",
-            "vote_average": 7.6,
-            "vote_count": 1245,
-            "poster_path": "https://image.tmdb.org/t/p/w500/l5irn0B4i1LU8o3elTSC8qBucL6.jpg"
-        },
-        {
-            "id": 32,
-            "title": "The Last Reel",
-            "overview": "A lost film buried beneath Cambodia’s killing fields reveals different versions of the truth.",
-            "release_date": "2014-10-20",
-            "vote_average": 7.4,
-            "vote_count": 1123,
-            "poster_path": "https://image.tmdb.org/t/p/w500/dnNl1KikcZYJHHmgH15Hcu2MZ5V.jpg"
-        },
-        {
-            "id": 33,
-            "title": "Rithy Panh's The Missing Picture",
-            "overview": "The atrocities committed by the Khmer Rouge regime in Cambodia from 1975 to 1979.",
-            "release_date": "2013-10-16",
-            "vote_average": 7.8,
-            "vote_count": 876,
-            "poster_path": "https://image.tmdb.org/t/p/w500/jBjQEdqFNqEZHFIXQvVDNZv8wmU.jpg"
-        },
-        {
-            "id": 34,
-            "title": "Jailbreak",
-            "overview": "A group of prisoners plan a mass breakout, but a team of elite security officers stands in their way.",
-            "release_date": "2017-01-31",
-            "vote_average": 6.8,
-            "vote_count": 654,
-            "poster_path": "https://image.tmdb.org/t/p/w500/pKPGZy6hQbBzwtyh9WcnD7JNLcb.jpg"
-        },
-        {
-            "id": 35,
-            "title": "The Snake King's Daughter",
-            "overview": "A classic Cambodian tale of romance, betrayal, and mythical curses.",
-            "release_date": "2001-08-15",
-            "vote_average": 7.0,
-            "vote_count": 534,
-            "poster_path": "https://image.tmdb.org/t/p/w500/gFzqJxMx2dVBTlAoUSbL0VwIaKf.jpg"
-        },
-        {
-            "id": 36,
-            "title": "The Burnt Theatre",
-            "overview": "In a burnt-down theatre in Phnom Penh, artists and actors still rehearse for their next big performance.",
-            "release_date": "2005-09-12",
-            "vote_average": 6.9,
-            "vote_count": 489,
-            "poster_path": "https://image.tmdb.org/t/p/w500/6DdgP8o6NmGSAfMlrgXoI7LLbUZ.jpg"
-        },
-        {
-            "id": 37,
-            "title": "The Gate",
-            "overview": "A biographical drama that recounts the imprisonment of François Bizot by the Khmer Rouge.",
-            "release_date": "2014-12-10",
-            "vote_average": 7.3,
-            "vote_count": 423,
-            "poster_path": "https://image.tmdb.org/t/p/w500/vJL5npzE2MBIz0lUabLsD1J8fRm.jpg"
-        },
-        {
-            "id": 38,
-            "title": "S21: The Khmer Rouge Killing Machine",
-            "overview": "Survivors of the S21 prison recall their harrowing experiences.",
-            "release_date": "2003-05-12",
-            "vote_average": 8.0,
-            "vote_count": 390,
-            "poster_path": "https://image.tmdb.org/t/p/w500/kbFHYftr5uyzV1Yh5J0F2eqzL5S.jpg"
-        },
-        {
-            "id": 39,
-            "title": "The Rice People",
-            "overview": "A family struggles to survive in the aftermath of the Khmer Rouge regime.",
-            "release_date": "1994-05-19",
-            "vote_average": 7.5,
-            "vote_count": 350,
-            "poster_path": "https://image.tmdb.org/t/p/w500/zTliENngyKdfG8tcjPdLZrl49Y3.jpg"
-        },
-        {
-            "id": 40,
-            "title": "Puthisen Neang Kongrey",
-            "overview": "A legendary tale of love and magic in ancient Cambodia.",
-            "release_date": "1968-04-14",
-            "vote_average": 7.2,
-            "vote_count": 320,
-            "poster_path": "https://image.tmdb.org/t/p/w500/aLZyG6x6FhjxgfWpZLm0xJzVikF.jpg"
-        },
-        {
-            "id": 41,
-            "title": "Funan",
-            "overview": "The story of a young woman who tries to find her son during the Khmer Rouge regime.",
-            "release_date": "2018-11-07",
-            "vote_average": 7.9,
-            "vote_count": 311,
-            "poster_path": "https://image.tmdb.org/t/p/w500/njvI6EBvR8DpouH1vKeCq1G5jNk.jpg"
-        },
-        {
-            "id": 42,
-            "title": "Golden Slumbers",
-            "overview": "A documentary about the golden age of Cambodian cinema before the Khmer Rouge regime.",
-            "release_date": "2011-10-19",
-            "vote_average": 7.4,
-            "vote_count": 280,
-            "poster_path": "https://image.tmdb.org/t/p/w500/oNfd8hJYzgJl9rQyXgzptl9rJCl.jpg"
-        },
-        {
-            "id": 43,
-            "title": "Diamond Island",
-            "overview": "A coming-of-age story set against the backdrop of rapid urbanization in Cambodia.",
-            "release_date": "2016-10-26",
-            "vote_average": 7.1,
-            "vote_count": 250,
-            "poster_path": "https://image.tmdb.org/t/p/w500/i3dY6e9MdXkN7ywRB4V8Izx6NHR.jpg"
-        },
-        {
-            "id": 44,
-            "title": "Cambodian Son",
-            "overview": "A Cambodian refugee in the United States discovers the power of spoken word poetry.",
-            "release_date": "2014-03-15",
-            "vote_average": 7.6,
-            "vote_count": 210,
-            "poster_path": "https://image.tmdb.org/t/p/w500/9B0XaQz4Dt5cPYvHJr8V7bTLfu8.jpg"
-        },
-        {
-            "id": 45,
-            "title": "Angkor: Cambodia Express",
-            "overview": "A thrilling adventure set in the historic ruins of Angkor Wat.",
-            "release_date": "1982-06-23",
-            "vote_average": 6.5,
-            "vote_count": 190,
-            "poster_path": "https://image.tmdb.org/t/p/w500/jdTTuXWRnFRZd1kGPi5aP7Y5h3r.jpg"
-        },
-        {
-            "id": 46,
-            "title": "Ruins",
-            "overview": "A haunting exploration of Cambodia’s Angkor temples and the stories they hold.",
-            "release_date": "2016-04-12",
-            "vote_average": 7.2,
-            "vote_count": 175,
-            "poster_path": "https://image.tmdb.org/t/p/w500/lKtLUE7lOIk9aiCQmGrOESaEZCJ.jpg"
-        },
-        {
-            "id": 47,
-            "title": "The Witch of the White Rose",
-            "overview": "A horror film about a vengeful spirit haunting a remote Cambodian village.",
-            "release_date": "2018-10-29",
-            "vote_average": 6.9,
-            "vote_count": 150,
-            "poster_path": "https://image.tmdb.org/t/p/w500/xNcL0Sv6gXtl1iwFPSt1K2mfC5G.jpg"
-        },
-        {
-            "id": 48,
-            "title": "The Twin Diamonds",
-            "overview": "A dramatic story of two sisters who become entangled in a web of crime and betrayal.",
-            "release_date": "2015-05-18",
-            "vote_average": 7.0,
-            "vote_count": 140,
-            "poster_path": "https://image.tmdb.org/t/p/w500/y0ZktKfKyhjqW5t7PBOzsmxRkcm.jpg"
-        },
-        {
-            "id": 49,
-            "title": "Under the Banyan Tree",
-            "overview": "An intergenerational drama set in a small Cambodian village.",
-            "release_date": "2013-03-07",
-            "vote_average": 7.3,
-            "vote_count": 130,
-            "poster_path": "https://image.tmdb.org/t/p/w500/zAyPTlqzOSXM3SzYFhQ9yMso5rD.jpg"
-        },
-        {
-            "id": 50,
-            "title": "Lost Loves",
-            "overview": "A Cambodian woman recounts her family's experiences during the Khmer Rouge era.",
-            "release_date": "2010-09-21",
-            "vote_average": 7.8,
-            "vote_count": 120,
-            "poster_path": "https://image.tmdb.org/t/p/w500/3u2PfcJ2LPVHRMxOPqvQ7d0oN7j.jpg"
-        },
-        {
-            "id": 51,
-            "title": "The Red Sense",
-            "overview": "A revenge drama involving a Cambodian refugee in Australia seeking justice for her father’s murder.",
-            "release_date": "2008-11-11",
-            "vote_average": 7.1,
-            "vote_count": 110,
-            "poster_path": "https://image.tmdb.org/t/p/w500/ah7V6Psew1r9kZ6hFrtMKT2UwVk.jpg"
-        },
-        {
-            "id": 52,
-            "title": "The Serpent's Tail",
-            "overview": "A supernatural thriller set in the heart of Cambodia's countryside.",
-            "release_date": "2017-07-04",
-            "vote_average": 6.8,
-            "vote_count": 100,
-            "poster_path": "https://image.tmdb.org/t/p/w500/c58d4da0V1zgK4fKjyB9jqahjOT.jpg"
-        },
-        {
-            "id": 53,
-            "title": "The Forest Whispers",
-            "overview": "A mystical journey through Cambodia’s forests, exploring ancient legends and spiritual encounters.",
-            "release_date": "2015-11-22",
-            "vote_average": 7.2,
-            "vote_count": 95,
-            "poster_path": "https://image.tmdb.org/t/p/w500/e1Uu7zMfyzUPMTvvY5cmC8NuT3F.jpg"
-        },
-        {
-            "id": 54,
-            "title": "The Forbidden City",
-            "overview": "An epic historical drama set during the peak of the Khmer Empire.",
-            "release_date": "2012-08-25",
-            "vote_average": 7.4,
-            "vote_count": 90,
-            "poster_path": "https://image.tmdb.org/t/p/w500/fA2zBdJbGc7GzTfH5b3m4nZ7kKi.jpg"
-        },
-        {
-            "id": 55,
-            "title": "The White Building",
-            "overview": "A poignant story about the residents of Phnom Penh’s iconic White Building as they face eviction.",
-            "release_date": "2021-09-15",
-            "vote_average": 7.5,
-            "vote_count": 85,
-            "poster_path": "https://image.tmdb.org/t/p/w500/hbXPfgZ8iw2MrfHI3Uv6vqzoyAw.jpg"
-        },
-        {
-            "id": 56,
-            "title": "The Sacred Lotus",
-            "overview": "A spiritual journey that intertwines the lives of several Cambodians.",
-            "release_date": "2018-06-10",
-            "vote_average": 7.3,
-            "vote_count": 75,
-            "poster_path": "https://image.tmdb.org/t/p/w500/mUN0S2HBXQHbwsRbEYzFkV5b8bN.jpg"
-        },
-        {
-            "id": 57,
-            "title": "A River Changes Course",
-            "overview": "A documentary highlighting the struggles of three Cambodian families as they navigate the changing landscape.",
-            "release_date": "2013-01-21",
-            "vote_average": 7.6,
-            "vote_count": 70,
-            "poster_path": "https://image.tmdb.org/t/p/w500/4UpI42Hx5v7S73RdjKQzp20KusC.jpg"
-        },
-        {
-            "id": 58,
-            "title": "Angkor Awakens",
-            "overview": "A comprehensive documentary exploring Cambodia’s history, culture, and political landscape.",
-            "release_date": "2017-04-28",
-            "vote_average": 7.4,
-            "vote_count": 65,
-            "poster_path": "https://image.tmdb.org/t/p/w500/xpX5N1hrDJw7GFgakl7hgxhyBrx.jpg"
-        },
-        {
-            "id": 59,
-            "title": "Dream Land",
-            "overview": "A romantic drama set against the backdrop of Cambodia’s rapid development and urbanization.",
-            "release_date": "2015-07-12",
-            "vote_average": 7.0,
-            "vote_count": 60,
-            "poster_path": "https://image.tmdb.org/t/p/w500/txPDCVxQ9DLR4mdPKClCn2MmN8Q.jpg"
-        },
-        {
-            "id": 60,
-            "title": "In the Life of Music",
-            "overview": "The story of how one song plays a role in the lives of three different generations.",
-            "release_date": "2018-03-01",
-            "vote_average": 7.5,
-            "vote_count": 55,
-            "poster_path": "https://image.tmdb.org/t/p/w500/y7NmnXwZ8vRcYp2r7iW7sDQpGFC.jpg"
+            "id": 20,
+            "title": "The Green Mile",
+            "overview": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+            "release_date": "1999-12-10",
+            "vote_average": 8.5,
+            "vote_count": 14754,
+            "poster_path": "https://image.tmdb.org/t/p/w500/velWPhVMQeQKcxggNEU8YmIo52R.jpg",
+            "type_movie": "Fantasy"
         }
-    ],
-    "totalPages": 1,
-    "totalResults": 60
+    ]
 }
