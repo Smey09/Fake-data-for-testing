@@ -200,6 +200,206 @@
             "vote_count": 14754,
             "poster_path": "https://image.tmdb.org/t/p/w500/velWPhVMQeQKcxggNEU8YmIo52R.jpg",
             "type_movie": "Fantasy"
+        },
+        {
+            "id": 21,
+            "title": "Fight Club",
+            "overview": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into something much, much more.",
+            "release_date": "1999-10-15",
+            "vote_average": 8.4,
+            "vote_count": 20678,
+            "poster_path": "https://image.tmdb.org/t/p/w500/adw6Lq9FiC9zjYEpOqfq03ituwp.jpg",
+            "type_movie": "Drama"
+        },
+        {
+            "id": 22,
+            "title": "Forrest Gump",
+            "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do.",
+            "release_date": "1994-07-06",
+            "vote_average": 8.5,
+            "vote_count": 19929,
+            "poster_path": "https://image.tmdb.org/t/p/w500/yE5d3BUhE8hCnkMUJOo1QDoOGNz.jpg",
+            "type_movie": "Drama"
+        },
+        {
+            "id": 23,
+            "title": "Inception",
+            "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets, is offered a chance to have his criminal history erased as payment for the implantation of another person's idea into a target's subconscious.",
+            "release_date": "2010-07-15",
+            "vote_average": 8.3,
+            "vote_count": 25791,
+            "poster_path": "https://image.tmdb.org/t/p/w500/qmDpIHrmpJINaRKAfWQfftjCdyi.jpg",
+            "type_movie": "Action"
+        },
+        {
+            "id": 24,
+            "title": "The Matrix",
+            "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+            "release_date": "1999-03-30",
+            "vote_average": 8.1,
+            "vote_count": 18653,
+            "poster_path": "https://image.tmdb.org/t/p/w500/hEpWvX6Bp79eLxY1kX5ZZJcme5U.jpg",
+            "type_movie": "Action"
+        },
+        {
+            "id": 25,
+            "title": "Pulp Fiction",
+            "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper.",
+            "release_date": "1994-09-10",
+            "vote_average": 8.5,
+            "vote_count": 21355,
+            "poster_path": "https://image.tmdb.org/t/p/w500/dM2w364MScsjFf8pfMbaWUcWrR.jpg",
+            "type_movie": "Crime"
+        },
+        {
+            "id": 26,
+            "title": "The Lord of the Rings: The Return of the King",
+            "overview": "Aragorn is revealed as the heir to the ancient kings as he, Gandalf and the other members of the broken fellowship struggle to save Gondor from Sauron's forces.",
+            "release_date": "2003-12-01",
+            "vote_average": 8.5,
+            "vote_count": 17452,
+            "poster_path": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+            "type_movie": "Adventure"
+        },
+        {
+            "id": 27,
+            "title": "The Godfather: Part II",
+            "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+            "release_date": "1974-12-20",
+            "vote_average": 8.5,
+            "vote_count": 10014,
+            "poster_path": "https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+            "type_movie": "Crime"
+        },
+        {
+            "id": 28,
+            "title": "Schindler's List",
+            "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+            "release_date": "1993-12-15",
+            "vote_average": 8.6,
+            "vote_count": 11334,
+            "poster_path": "https://image.tmdb.org/t/p/w500/yPisjyLweCl1tbgwgtzBCNCBle.jpg",
+            "type_movie": "Drama"
+        },
+        {
+            "id": 29,
+            "title": "The Lord of the Rings: The Fellowship of the Ring",
+            "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+            "release_date": "2001-12-18",
+            "vote_average": 8.3,
+            "vote_count": 17896,
+            "poster_path": "https://image.tmdb.org/t/p/w500/56zTpe2xvaA4alU51sRWPoKPYZy.jpg",
+            "type_movie": "Adventure"
+        },
+        {
+            "id": 30,
+            "title": "Goodfellas",
+            "overview": "A young man grows up in the mob and works very hard to advance himself through the ranks. He enjoys his life of money and luxury, but is oblivious to the horror that he causes. A drug addiction and a few mistakes ultimately unravel his climb to the top.",
+            "release_date": "1990-09-12",
+            "vote_average": 8.4,
+            "vote_count": 9728,
+            "poster_path": "https://image.tmdb.org/t/p/w500/rhIRbceoE9lR4veEXuwCC2wARtG.jpg",
+            "type_movie": "Crime"
+        },
+        {
+            "id": 31,
+            "title": "The Dark Knight",
+            "overview": "Batman raises the stakes in his war on crime. With the help of Lieutenant Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the city streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as The Joker.",
+            "release_date": "2008-07-16",
+            "vote_average": 8.5,
+            "vote_count": 26077,
+            "poster_path": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+            "type_movie": "Action"
+        },
+        {
+            "id": 32,
+            "title": "The Lord of the Rings: The Two Towers",
+            "overview": "Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas, and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
+            "release_date": "2002-12-18",
+            "vote_average": 8.3,
+            "vote_count": 14592,
+            "poster_path": "https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+            "type_movie": "Adventure"
+        },
+        {
+            "id": 33,
+            "title": "Interstellar",
+            "overview": "Interstellar chronicles the adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+            "release_date": "2014-11-05",
+            "vote_average": 8.3,
+            "vote_count": 24190,
+            "poster_path": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+            "type_movie": "Adventure"
+        },
+        {
+            "id": 34,
+            "title": "Saving Private Ryan",
+            "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+            "release_date": "1998-07-24",
+            "vote_average": 8.1,
+            "vote_count": 12611,
+            "poster_path": "https://image.tmdb.org/t/p/w500/miDoEMlYDJhOCvxlzI0wZqBs9Yt.jpg",
+            "type_movie": "Drama"
+        },
+        {
+            "id": 35,
+            "title": "The Pianist",
+            "overview": "The true story of pianist Władysław Szpilman's experiences in Warsaw during the Nazi occupation. When the Jews of the city find themselves forced into a ghetto, Szpilman finds work playing in a café; and when his family is deported in 1942, he stays behind, works for a while as a laborer, and eventually goes into hiding in the ruins of the war-torn city.",
+            "release_date": "2002-09-17",
+            "vote_average": 8.3,
+            "vote_count": 8058,
+            "poster_path": "https://image.tmdb.org/t/p/w500/sZ6J3VqnuEJDI7d3WIPVIMR4VrT.jpg",
+            "type_movie": "War"
+        },
+        {
+            "id": 36,
+            "title": "Gladiator",
+            "overview": "In the year 180, the death of emperor Marcus Aurelius throws the Roman Empire into chaos. Maximus is one of the Roman army's most capable and trusted generals and a key advisor to the emperor. As Marcus' devious son Commodus ascends to the throne, Maximus is set to be executed. He escapes, but is captured by slave traders. Renamed Spaniard and forced to become a gladiator, Maximus must battle to the death with other men for the amusement of paying audiences.",
+            "release_date": "2000-05-01",
+            "vote_average": 8.1,
+            "vote_count": 14618,
+            "poster_path": "https://image.tmdb.org/t/p/w500/6WBIzCgmDCYrqh64yDREGeDk9d3.jpg",
+            "type_movie": "Action"
+        },
+        {
+            "id": 37,
+            "title": "American History X",
+            "overview": "Derek Vineyard is paroled after serving 3 years in prison for brutally killing two black men who tried to break into/steal his truck. Through his brother, Danny Vineyard's narration, we learn that before going to prison, Derek was a skinhead and the leader of a violent white supremacist gang that committed acts of racial crime throughout L.A. and his actions greatly influenced Danny. Reformed and fresh out of prison, Derek severs contact with the gang and becomes determined to keep Danny from going down the same violent path as he did.",
+            "release_date": "1998-10-30",
+            "vote_average": 8.4,
+            "vote_count": 12088,
+            "poster_path": "https://image.tmdb.org/t/p/w500/fXepRAYOx1qC3wju7XdDGx60775.jpg",
+            "type_movie": "Drama"
+        },
+        {
+            "id": 38,
+            "title": "The Departed",
+            "overview": "To take down South Boston's Irish Mafia, the police send in one of their own to infiltrate the underworld, not realizing the syndicate has done likewise in Martin Scorsese's multiple Oscar-winning crime thriller. While an undercover cop curries favor with the mob kingpin, a career criminal rises through the police ranks. But both sides soon discover there's a mole among them.",
+            "release_date": "2006-10-05",
+            "vote_average": 8.2,
+            "vote_count": 10797,
+            "poster_path": "https://image.tmdb.org/t/p/w500/tGLO9zw5ZtCeyyEWgbYGgsFxC6i.jpg",
+            "type_movie": "Crime"
+        },
+        {
+            "id": 39,
+            "title": "Schindler's List",
+            "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+            "release_date": "1993-12-15",
+            "vote_average": 8.6,
+            "vote_count": 11334,
+            "poster_path": "https://image.tmdb.org/t/p/w500/yPisjyLweCl1tbgwgtzBCNCBle.jpg",
+            "type_movie": "Drama"
+        },
+        {
+            "id": 40,
+            "title": "The Prestige",
+            "overview": "A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy — full of obsession, deceit and jealousy with dangerous and deadly consequences.",
+            "release_date": "2006-10-19",
+            "vote_average": 8.2,
+            "vote_count": 13028,
+            "poster_path": "https://image.tmdb.org/t/p/w500/5MXyQfz8xUP3dIFPTubhTsbFYp3.jpg",
+            "type_movie": "Drama"
         }
     ]
 }
