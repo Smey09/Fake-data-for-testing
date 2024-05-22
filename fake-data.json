@@ -400,6 +400,226 @@
             "vote_count": 13028,
             "poster_path": "https://image.tmdb.org/t/p/w500/5MXyQfz8xUP3dIFPTubhTsbFYp3.jpg",
             "type_movie": "Drama"
+        },
+        {
+            "id": 41,
+            "title": "Inception",
+            "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets, is offered a chance to regain his old life as payment for a task considered to be impossible: 'inception', the implantation of another person's idea into a target's subconscious.",
+            "release_date": "2010-07-14",
+            "vote_average": 8.3,
+            "vote_count": 28763,
+            "poster_path": "https://image.tmdb.org/t/p/w500/qmDpIHrmpJINaRKAfWQfftjCdyi.jpg",
+            "type_movie": "Action"
+        },
+        {
+            "id": 42,
+            "title": "The Shawshank Redemption",
+            "overview": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+            "release_date": "1994-09-10",
+            "vote_average": 8.7,
+            "vote_count": 20543,
+            "poster_path": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+            "type_movie": "Drama"
+        },
+        {
+            "id": 43,
+            "title": "The Godfather",
+            "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch Vito Corleone barely survives an attempt on his life, his youngest son, Michael, steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+            "release_date": "1972-03-14",
+            "vote_average": 8.7,
+            "vote_count": 15032,
+            "poster_path": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+            "type_movie": "Crime"
+        },
+        {
+            "id": 44,
+            "title": "The Matrix",
+            "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+            "release_date": "1999-03-30",
+            "vote_average": 8.1,
+            "vote_count": 16857,
+            "poster_path": "https://image.tmdb.org/t/p/w500/hEpWvX6Bp79eLxY1kX5ZZJcme5U.jpg",
+            "type_movie": "Action"
+        },
+        {
+            "id": 45,
+            "title": "The Shawshank Redemption",
+            "overview": "Tim Robbins portrays Andy Dufresne, a man sentenced to life in Shawshank prison for the murder of his wife, although he insists on his innocence. The movie explores the themes of hope, despair, and friendship as Andy makes his way through the brutality of prison life.",
+            "release_date": "1994-09-23",
+            "vote_average": 9.3,
+            "vote_count": 2200000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/q6yCmQWOaqlvT8YAOZcXQWvhXMi.jpg",
+            "type_movie": "Drama"
+        },
+        {
+            "id": 46,
+            "title": "Inception",
+            "overview": "Dom Cobb (played by Leonardo DiCaprio) is a skilled thief who specializes in entering people's dreams to steal their secrets. He is offered a chance at redemption by performing an impossible task: planting an idea in someone's mind.",
+            "release_date": "2010-07-16",
+            "vote_average": 8.8,
+            "vote_count": 26700000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
+            "type_movie": "Science Fiction, Action"
+        },
+        {
+            "id": 47,
+            "title": "The Social Network",
+            "overview": "A gripping drama that chronicles the creation and rise of Facebook, focusing on the tumultuous relationship between its co-founders, Mark Zuckerberg and Eduardo Saverin.",
+            "release_date": "2010-09-24",
+            "vote_average": 7.6,
+            "vote_count": 6600000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/ok5Wh8385Kgblq9MSU4VGvazeMH.jpg",
+            "type_movie": "Drama, History"
+        },
+        {
+            "id": 48,
+            "title": "Gravity",
+            "overview": "Dr. Ryan Stone (Sandra Bullock) and astronaut Matt Kowalski (George Clooney) fight for survival after their space shuttle is destroyed, leaving them stranded in orbit.",
+            "release_date": "2013-10-04",
+            "vote_average": 7.3,
+            "vote_count": 11900000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/wnVHDbGz7RvDAHFAsVVT88FxhrP.jpg",
+            "type_movie": "Science Fiction, Thriller"
+        },
+        {
+            "id": 49,
+            "title": "Django Unchained",
+            "overview": "Set in the pre-Civil War South, this Quentin Tarantino film follows the journey of a freed slave (Jamie Foxx) who teams up with a bounty hunter (Christoph Waltz) to rescue his wife from a brutal plantation owner (Leonardo DiCaprio).",
+            "release_date": "2012-12-25",
+            "vote_average": 8.1,
+            "vote_count": 17700000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/5WJnxuw41sddupf8cwOxYftuvJG.jpg",
+            "type_movie": "Drama, Western"
+        },
+        {
+            "id": 50,
+            "title": "Interstellar",
+            "overview": "In a future where Earth faces environmental collapse, a group of astronauts embarks on a journey through a wormhole to find a new habitable planet for humanity.",
+            "release_date": "2014-11-05",
+            "vote_average": 8.6,
+            "vote_count": 203000000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/nBNZadXqJSdt05SHLqgT0HuC5Gm.jpg",
+            "type_movie": "Science Fiction, Adventure"
+        },
+        {
+            "id": 51,
+            "title": "The Grand Budapest Hotel",
+            "overview": "A quirky comedy-drama set in a fictional European hotel during the 1930s. The film follows the misadventures of the hotel's concierge and his loyal lobby boy.",
+            "release_date": "2014-03-07",
+            "vote_average": 8.1,
+            "vote_count": 10200000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/1pHc4jgoIc3sRN4W5WJ0zO6O1CF.jpg",
+            "type_movie": "Comedy, Drama"
+        },
+        {
+            "id": 52,
+            "title": "Whiplash",
+            "overview": "A talented young drummer (Miles Teller) enrolls in a prestigious music conservatory and faces the intense mentorship of a demanding jazz instructor (J.K. Simmons).",
+            "release_date": "2014-10-10",
+            "vote_average": 8.5,
+            "vote_count": 129000000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/lIv1QinFqz4dlp5U4lQ6HaiskOZ.jpg",
+            "type_movie": "Drama, Music"
+        },
+        {
+            "id": 53,
+            "title": "Gone Girl",
+            "overview": "When his wife (Rosamund Pike) goes missing, Nick Dunne (Ben Affleck) becomes the prime suspect. The film explores deception, media frenzy, and the secrets of a troubled marriage.",
+            "release_date": "2014-10-01",
+            "vote_average": 8.1,
+            "vote_count": 137000000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/gdiLTof3rbPDAmPaCf4g6op46bj.jpg",
+            "type_movie": "Mystery, Thriller"
+        },
+        {
+            "id": 54,
+            "title": "Birdman",
+            "overview": "A washed-up actor (Michael Keaton) famous for playing a superhero struggles to revive his career by staging a Broadway play. The film blurs the line between reality and fantasy.",
+            "release_date": "2014-08-27",
+            "vote_average": 7.6,
+            "vote_count": 108000000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/rSZs93P0LLxqlVEbI001UKoeCQC.jpg",
+            "type_movie": "Comedy, Drama"
+        },
+        {
+            "id": 55,
+            "title": "Nightcrawler",
+            "overview": "A freelance videographer (Jake Gyllenhaal) chases crime scenes in Los Angeles to capture shocking footage for the news. The film delves into the dark side of media sensationalism.",
+            "release_date": "2014-10-23",
+            "vote_average": 7.8,
+            "vote_count": 79000000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/8oPY6ULFOTbAEskySNhgsUIN4fW.jpg",
+            "type_movie": "Crime, Thriller"
+        },
+        {
+            "id": 56,
+            "title": "Boyhood",
+            "overview": "Filmed over 12 years, this unique coming-of-age drama follows the life of a boy (Ellar Coltrane) as he grows from childhood to adulthood. A remarkable cinematic experiment.",
+            "release_date": "2014-07-11",
+            "vote_average": 7.8,
+            "vote_count": 4500000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/iYFzW6YVtVW8Ub7AYKMET6Jknb.jpg",
+            "type_movie": "Crime, Thriller"
+        },
+        {
+            "id": 57,
+            "title": "Her",
+            "overview": "Set in a near-future Los Angeles, a lonely man (Joaquin Phoenix) develops an emotional connection with an advanced artificial intelligence operating system (voiced by Scarlett Johansson).",
+            "release_date": "2013-12-18",
+            "vote_average": 8.0,
+            "vote_count": 10100000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/yE5d3BUhE8hCnkMUJOo1QDoOGNz.jpg",
+            "type_movie": "Science Fiction, Romance"
+        },
+        {
+            "id": 58,
+            "title": "The Imitation Game",
+            "overview": "Based on the life of Alan Turing (Benedict Cumberbatch), a brilliant mathematician and codebreaker during World War II. The film explores his work on breaking the German Enigma code.",
+            "release_date": "2014-11-14",
+            "vote_average": 8.0,
+            "vote_count": 112100000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/noUp0XOqIcmgefRnRZa1nhtRvWO.jpg",
+            "type_movie": "Drama, History"
+        },
+        {
+            "id": 59,
+            "title": "Guardians of the Galaxy",
+            "overview": "A group of intergalactic misfits, including Star-Lord (Chris Pratt), Rocket Raccoon, and Groot, team up to save the galaxy from a powerful villain. A fun-filled space adventure.",
+            "release_date": "2014-07-30",
+            "vote_average": 7.9,
+            "vote_count": 168100000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/y31QB9kn3XSudA15tV7UWQ9XLuW.jpg",
+            "type_movie": "Science Fiction, Action"
+        },
+        {
+            "id": 60,
+            "title": "The Theory of Everything",
+            "overview": "A biographical drama about the life of physicist Stephen Hawking (Eddie Redmayne) and his relationship with his wife, Jane Wilde (Felicity Jones).",
+            "release_date": "2014-11-26",
+            "vote_average": 7.8,
+            "vote_count": 86100000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/4j7yTEE1YvNyXzUaLHpGw1H4lBB.jpg",
+            "type_movie": "Drama, Romance"
+        },
+        {
+            "id": 61,
+            "title": "Edge of Tomorrow",
+            "overview": "In a war against alien invaders, a soldier (Tom Cruise) gains the ability to relive the same day over and over. He teams up with a skilled warrior (Emily Blunt) to change the course of the battle.",
+            "release_date": "2014-05-28",
+            "vote_average": 7.6,
+            "vote_count": 92100000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/uUHvlkLavotfGsNtosDy8ShsIYF.jpg",
+            "type_movie": "Science Fiction, Action"
+        },
+        {
+            "id": 62,
+            "title": "Snowpiercer",
+            "overview": "In a post-apocalyptic world, the remnants of humanity survive aboard a perpetually moving train. The class struggle intensifies as the passengers revolt against their oppressive rulers.",
+            "release_date": "2013-08-01",
+            "vote_average": 7.3,
+            "vote_count": 67100000,
+            "poster_path": "https://image.tmdb.org/t/p/w500/qPQFWrLoQY6t0b3OxLbK3ULiHcT.jpg",
+            "type_movie": "Science Fiction, Action"
         }
     ]
 }
