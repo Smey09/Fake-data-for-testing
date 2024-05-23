@@ -910,8 +910,208 @@
             "vote_count": 205000,
             "poster_path": "https://m.media-amazon.com/images/M/MV5BMjUyOTE1NjI0OF5BMl5BanBnXkFtZTgwMTM4ODQ5NTM@._V1_.jpg",
             "type_movie": "Biography, Crime, Drama"
+        },
+        {
+            "id": 92,
+            "title": "The Revenant",
+            "overview": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.",
+            "release_date": "2015-12-25",
+            "vote_average": 8.0,
+            "vote_count": 14000,
+            "poster_path": "https://m.media-amazon.com/images/I/91HqnkLaq+L._AC_SY679_.jpg",
+            "type_movie": "Biography"
+        },
+        {
+            "id": 93,
+            "title": "Steve Jobs",
+            "overview": "Set backstage at three iconic product launches and ending in 1998 with the unveiling of the iMac, Steve Jobs takes us behind the scenes of the digital revolution to paint a portrait of the man at its epicenter.",
+            "release_date": "2015-10-09",
+            "vote_average": 7.2,
+            "vote_count": 6700,
+            "poster_path": "https://m.media-amazon.com/images/I/81Fj5Fj+XBL._AC_SY679_.jpg",
+            "type_movie": "Biography"
+        },
+        {
+            "id": 94,
+            "title": "The Theory of Everything",
+            "overview": "A look at the relationship between the famous physicist Stephen Hawking and his wife.",
+            "release_date": "2015-01-01",
+            "vote_average": 7.7,
+            "vote_count": 9500,
+            "poster_path": "https://m.media-amazon.com/images/I/81GUKXgH9XL._AC_SY679_.jpg",
+            "type_movie": "Biography"
+        },
+        {
+            "id": 95,
+            "title": "Hidden Figures",
+            "overview": "The story of a team of female African-American mathematicians who served a vital role in NASA during the early years of the U.S. space program.",
+            "release_date": "2016-12-25",
+            "vote_average": 7.8,
+            "vote_count": 8200,
+            "poster_path": "https://m.media-amazon.com/images/I/81px0d2YczL._AC_SY679_.jpg",
+            "type_movie": "Biography"
+        },
+        {
+            "id": 96,
+            "title": "Bohemian Rhapsody",
+            "overview": "The story of the legendary British rock band Queen and lead singer Freddie Mercury, leading up to their famous performance at Live Aid (1985).",
+            "release_date": "2018-11-02",
+            "vote_average": 8.0,
+            "vote_count": 12000,
+            "poster_path": "https://m.media-amazon.com/images/I/81p+xe8cbnL._AC_SY679_.jpg",
+            "type_movie": "Biography"
+        },
+        {
+            "id": 97,
+            "title": "Rocketman",
+            "overview": "A musical fantasy about the fantastical human story of Elton John's breakthrough years.",
+            "release_date": "2019-05-31",
+            "vote_average": 7.3,
+            "vote_count": 5500,
+            "poster_path": "https://m.media-amazon.com/images/I/91h1Bix2aML._AC_SY679_.jpg",
+            "type_movie": "Biography"
+        },
+        {
+            "id": 98,
+            "title": "Judy",
+            "overview": "Legendary performer Judy Garland arrives in London in the winter of 1968 to perform a series of sold-out concerts.",
+            "release_date": "2019-09-27",
+            "vote_average": 7.0,
+            "vote_count": 3800,
+            "poster_path": "https://m.media-amazon.com/images/I/71HblAHs5BL._AC_SY679_.jpg",
+            "type_movie": "Biography"
+        },
+        {
+            "id": 99,
+            "title": "Ford v Ferrari",
+            "overview": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford and challenge Ferrari at the 24 Hours of Le Mans in 1966.",
+            "release_date": "2019-11-15",
+            "vote_average": 8.1,
+            "vote_count": 9000,
+            "poster_path": "https://m.media-amazon.com/images/I/81d4x5g3fyL._AC_SY679_.jpg",
+            "type_movie": "Biography"
+        },
+        {
+            "id": 100,
+            "title": "The Irishman",
+            "overview": "A mob hitman recalls his possible involvement with the slaying of Jimmy Hoffa.",
+            "release_date": "2019-11-27",
+            "vote_average": 7.9,
+            "vote_count": 6200,
+            "poster_path": "https://m.media-amazon.com/images/I/71j7ty33zbL._AC_SY679_.jpg",
+            "type_movie": "Biography"
+        },
+        {
+            "id": 101,
+            "title": "Darkest Hour",
+            "overview": "In May 1940, the fate of World War II hangs on Winston Churchill, who must decide whether to negotiate with Adolf Hitler, or fight on knowing that it could mean the end of the British Empire.",
+            "release_date": "2017-12-22",
+            "vote_average": 7.4,
+            "vote_count": 5400,
+            "poster_path": "https://m.media-amazon.com/images/I/81sA1MGa8ZL._AC_SY679_.jpg",
+            "type_movie": "Biography"
+        },
+        {
+            "id": 102,
+            "title": "Inside Out",
+            "overview": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+            "release_date": "2015-06-19",
+            "vote_average": 8.1,
+            "vote_count": 17492,
+            "poster_path": "https://image.tmdb.org/t/p/w500/lRHE0vzf3oYJrhbsHXjIkF4Tl5A.jpg",
+            "type_movie": "Animation"
+        },
+        {
+            "id": 103,
+            "title": "Zootopia",
+            "overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+            "release_date": "2016-03-04",
+            "vote_average": 7.7,
+            "vote_count": 14452,
+            "poster_path": "https://image.tmdb.org/t/p/w500/jWM0ctnucvYMftqU2Z5CJcODyxM.jpg",
+            "type_movie": "Animation"
+        },
+        {
+            "id": 104,
+            "title": "Finding Dory",
+            "overview": "Friendly but forgetful blue tang Dory begins a search for her long-lost parents, and everyone learns a few things about the real meaning of family along the way.",
+            "release_date": "2016-06-17",
+            "vote_average": 7.0,
+            "vote_count": 12183,
+            "poster_path": "https://image.tmdb.org/t/p/w500/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg",
+            "type_movie": "Animation"
+        },
+        {
+            "id": 105,
+            "title": "Moana",
+            "overview": "In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right.",
+            "release_date": "2016-11-23",
+            "vote_average": 7.6,
+            "vote_count": 12650,
+            "poster_path": "https://image.tmdb.org/t/p/w500/4KSWN2E3ghveImWgnAFApYdhGz0.jpg",
+            "type_movie": "Animation"
+        },
+        {
+            "id": 106,
+            "title": "Coco",
+            "overview": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+            "release_date": "2017-11-22",
+            "vote_average": 8.2,
+            "vote_count": 16302,
+            "poster_path": "https://image.tmdb.org/t/p/w500/z4x0Bp48ar3Mda8KiPD1vwSY3D8.jpg",
+            "type_movie": "Animation"
+        },
+        {
+            "id": 107,
+            "title": "The Incredibles 2",
+            "overview": "Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet -- taking care of the problems of his three children.",
+            "release_date": "2018-06-15",
+            "vote_average": 7.6,
+            "vote_count": 10204,
+            "poster_path": "https://image.tmdb.org/t/p/w500/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
+            "type_movie": "Animation"
+        },
+        {
+            "id": 108,
+            "title": "Spider-Man: Into the Spider-Verse",
+            "overview": "Teen Miles Morales becomes the Spider-Man of his reality, crossing his path with five counterparts from other dimensions to stop a threat for all realities.",
+            "release_date": "2018-12-14",
+            "vote_average": 8.4,
+            "vote_count": 10320,
+            "poster_path": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+            "type_movie": "Animation"
+        },
+        {
+            "id": 109,
+            "title": "Toy Story 4",
+            "overview": "When a new toy called 'Forky' joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy.",
+            "release_date": "2019-06-21",
+            "vote_average": 7.6,
+            "vote_count": 8071,
+            "poster_path": "https://image.tmdb.org/t/p/w500/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+            "type_movie": "Animation"
+        },
+        {
+            "id": 110,
+            "title": "Frozen II",
+            "overview": "Anna, Elsa, Kristoff, Olaf, and Sven leave Arendelle to travel to an ancient, autumn-bound forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom.",
+            "release_date": "2019-11-22",
+            "vote_average": 7.2,
+            "vote_count": 8773,
+            "poster_path": "https://image.tmdb.org/t/p/w500/pjeMs3yqRmFL3giJy4PMXWZTTPa.jpg",
+            "type_movie": "Animation"
+        },
+        {
+            "id": 111,
+            "title": "Onward",
+            "overview": "Two elven brothers embark on a quest to bring their father back for one day.",
+            "release_date": "2020-03-06",
+            "vote_average": 7.6,
+            "vote_count": 4700,
+            "poster_path": "https://image.tmdb.org/t/p/w500/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg",
+            "type_movie": "Animation"
         }
     ],
     "total_pages": 1,
-    "total_results": 91
+    "total_results": 101
 }
