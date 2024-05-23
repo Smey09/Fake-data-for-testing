@@ -810,8 +810,108 @@
             "vote_count": 321000,
             "poster_path": "https://m.media-amazon.com/images/I/81dbWuZtHwL._AC_UF894,1000_QL80_.jpg",
             "type_movie": "Biography, Drama, Music"
+        },
+        {
+            "id": 82,
+            "title": "Bohemian Rhapsody",
+            "overview": "The story of the legendary British rock band Queen and lead singer Freddie Mercury, leading up to their famous performance at Live Aid (1985).",
+            "release_date": "2018-10-24",
+            "vote_average": 8.0,
+            "vote_count": 445000,
+            "poster_path": "https://m.media-amazon.com/images/I/81dEd-Qg35L._AC_SY679_.jpg",
+            "type_movie": "Biography, Drama, Music"
+        },
+        {
+            "id": 83,
+            "title": "The Imitation Game",
+            "overview": "During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians.",
+            "release_date": "2014-11-28",
+            "vote_average": 8.0,
+            "vote_count": 736000,
+            "poster_path": "https://m.media-amazon.com/images/I/71X1gvEKNwL._AC_SY679_.jpg",
+            "type_movie": "Biography, Drama, History"
+        },
+        {
+            "id": 84,
+            "title": "The Theory of Everything",
+            "overview": "A look at the relationship between the famous physicist Stephen Hawking and his wife.",
+            "release_date": "2014-11-26",
+            "vote_average": 7.7,
+            "vote_count": 358000,
+            "poster_path": "https://m.media-amazon.com/images/I/71TPFD2XGLL._AC_SY679_.jpg",
+            "type_movie": "Biography, Drama, Romance"
+        },
+        {
+            "id": 85,
+            "title": "Hacksaw Ridge",
+            "overview": "World War II American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people, and becomes the first man in American history to receive the Medal of Honor without firing a shot.",
+            "release_date": "2016-11-04",
+            "vote_average": 8.1,
+            "vote_count": 420000,
+            "poster_path": "https://m.media-amazon.com/images/I/91b5ttoR4wL._AC_SY679_.jpg",
+            "type_movie": "Biography, Drama, History"
+        },
+        {
+            "id": 86,
+            "title": "The Revenant",
+            "overview": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.",
+            "release_date": "2015-12-25",
+            "vote_average": 8.0,
+            "vote_count": 750000,
+            "poster_path": "https://m.media-amazon.com/images/I/81z-9I42mvL._AC_SY679_.jpg",
+            "type_movie": "Biography, Adventure, Drama"
+        },
+        {
+            "id": 87,
+            "title": "The Big Short",
+            "overview": "In 2006-2007 a group of investors bet against the US mortgage market. In their research they discover how flawed and corrupt the market is.",
+            "release_date": "2015-12-11",
+            "vote_average": 7.8,
+            "vote_count": 389000,
+            "poster_path": "https://m.media-amazon.com/images/I/81nCZZo2KQL._AC_SY679_.jpg",
+            "type_movie": "Biography, Comedy, Drama"
+        },
+        {
+            "id": 88,
+            "title": "Steve Jobs",
+            "overview": "Steve Jobs takes us behind the scenes of the digital revolution, to paint a portrait of the man at its epicenter.",
+            "release_date": "2015-10-09",
+            "vote_average": 7.2,
+            "vote_count": 140000,
+            "poster_path": "https://m.media-amazon.com/images/I/91MteSqsrJL._AC_SY679_.jpg",
+            "type_movie": "Biography, Drama"
+        },
+        {
+            "id": 89,
+            "title": "Darkest Hour",
+            "overview": "In May 1940, the fate of World War II hangs on Winston Churchill, who must decide whether to negotiate with Hitler, or fight on knowing that it could mean a humiliating defeat for Britain and its empire.",
+            "release_date": "2017-11-22",
+            "vote_average": 7.4,
+            "vote_count": 152000,
+            "poster_path": "https://m.media-amazon.com/images/I/71OeB62pAYL._AC_SY679_.jpg",
+            "type_movie": "Biography, Drama, History"
+        },
+        {
+            "id": 90,
+            "title": "First Man",
+            "overview": "A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.",
+            "release_date": "2018-10-12",
+            "vote_average": 7.3,
+            "vote_count": 155000,
+            "poster_path": "https://m.media-amazon.com/images/I/91knl0IrktL._AC_SY679_.jpg",
+            "type_movie": "Biography, Drama, History"
+        },
+        {
+            "id": 91,
+            "title": "BlacKkKlansman",
+            "overview": "Ron Stallworth, an African American police officer from Colorado Springs, CO, successfully manages to infiltrate the local Ku Klux Klan branch with the help of a Jewish surrogate who eventually becomes its leader.",
+            "release_date": "2018-08-10",
+            "vote_average": 7.5,
+            "vote_count": 205000,
+            "poster_path": "https://m.media-amazon.com/images/I/91W1m4kqWuL._AC_SY679_.jpg",
+            "type_movie": "Biography, Crime, Drama"
         }
     ],
     "total_pages": 1,
-    "total_results": 81
+    "total_results": 91
 }
