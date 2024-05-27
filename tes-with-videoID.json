@@ -55,19 +55,8 @@
             "poster_path": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStcfCZUeMyodh3Fv7uzCveqM08IvgnMjTWkK_g5MCnNtduN5Qf",
             "type_movie": "Remix",
             "video_play_id": "RrDlCWxDAts"
-        },
-        {
-            "id": 6,
-            "title": "Believer - Imagine Dragons",
-            "overview": "Official music video by Imagine Dragons performing Believer. Listen to Imagine Dragons: https://ID.lnk.to/ID Listen to Believer on Apple Music: https://ID.lnk.to/BelieverApple",
-            "release_date": "2018-02-01",
-            "vote_average": 9.3,
-            "vote_count": 517674813,
-            "poster_path": "https://i.ytimg.com/vi/gOsM-DYAEhY/hq720.jpg",
-            "type_music": "Pop",
-            "video_play_id": "W0DM5lcj6mw"
         }
     ],
     "total_pages": 1,
-    "total_results": 6
+    "total_results": 8
 }
