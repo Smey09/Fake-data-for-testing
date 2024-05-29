@@ -187,6 +187,17 @@
             "poster_path": "https://i.ytimg.com/vi/vtIp2OW0MP4/maxresdefault.jpg",
             "type_movie": "Speed up",
             "video_play_id": "vtIp2OW0MP4"
+        },
+        {
+            "id": 18,
+            "title": "The One That Got Away",
+            "overview": "The One That Got Away - Katy Perry (Cover)",
+            "release_date": "2020-06-14",
+            "vote_average": 8.5,
+            "vote_count": 4284720,
+            "poster_path": "https://www.youtube.com/watch?v=06OOefngy4U&list=RD06OOefngy4U&start_radio=1",
+            "type_movie": "Cover",
+            "video_play_id": "RD06OOefngy4U"
         }
     ],
     "total_pages": 1,
