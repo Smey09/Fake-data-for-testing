@@ -451,8 +451,41 @@
             "poster_path": "https://i.ytimg.com/vi/6u_j4d9D4Rc/maxresdefault.jpg",
             "type_movie": "Remix",
             "video_play_id": "6u_j4d9D4Rc"
+        },
+        {
+            "id": 41,
+            "title": "Ed Sheeran - Perfect (Official Music Video)",
+            "overview": "The official music video for Ed Sheeran's 'Perfect'.",
+            "release_date": "2017-11-09",
+            "vote_average": 9.7,
+            "vote_count": 3102958472,
+            "poster_path": "https://i.ytimg.com/vi/2Vv-BfVoq4g/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "2Vv-BfVoq4g"
+        },
+        {
+            "id": 42,
+            "title": "Billie Eilish - bad guy",
+            "overview": "Listen to “bad guy” from the debut album “WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?” out now.",
+            "release_date": "2019-03-29",
+            "vote_average": 9.6,
+            "vote_count": 1462791253,
+            "poster_path": "https://i.ytimg.com/vi/DyDfgMOUjCI/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "DyDfgMOUjCI"
+        },
+        {
+            "id": 43,
+            "title": "Shawn Mendes, Camila Cabello - Señorita",
+            "overview": "Shawn Mendes & Camila Cabellos official music video for 'Señorita'.",
+            "release_date": "2019-06-21",
+            "vote_average": 9.5,
+            "vote_count": 1243729415,
+            "poster_path": "https://i.ytimg.com/vi/Pkh8UtuejGw/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "Pkh8UtuejGw"
         }
     ],
     "total_pages": 1,
-    "total_results": 40
+    "total_results": 43 
 }
