@@ -459,7 +459,7 @@
             "release_date": "2017-11-09",
             "vote_average": 9.7,
             "vote_count": 3102958472,
-            "poster_path": "https://i.ytimg.com/vi/2Vv-BfVoq4g/maxresdefault.jpg",
+            "poster_path": "https://i.ytimg.com/vi/0JS-IYTKhjc/mqdefault.jpg",
             "type_movie": "Official Music Video",
             "video_play_id": "2Vv-BfVoq4g"
         },
@@ -484,8 +484,118 @@
             "poster_path": "https://i.ytimg.com/vi/Pkh8UtuejGw/maxresdefault.jpg",
             "type_movie": "Official Music Video",
             "video_play_id": "Pkh8UtuejGw"
+        },
+        {
+            "id": 44,
+            "title": "Ariana Grande - 7 rings (Official Video)",
+            "overview": "7 rings (Official Video) by Ariana Grande",
+            "release_date": "2019-01-18",
+            "vote_average": 9.5,
+            "vote_count": 1205932827,
+            "poster_path": "https://i.ytimg.com/vi/QYh6mYIJG2Y/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "QYh6mYIJG2Y"
+        },
+        {
+            "id": 45,
+            "title": "Lil Nas X - MONTERO (Call Me By Your Name) (Official Video)",
+            "overview": "Official video for Lil Nas X's 'MONTERO (Call Me By Your Name)'",
+            "release_date": "2021-03-26",
+            "vote_average": 9.4,
+            "vote_count": 547891642,
+            "poster_path": "https://i.ytimg.com/vi/6swmTBVI83k/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "6swmTBVI83k"
+        },
+        {
+            "id": 46,
+            "title": "The Weeknd - Blinding Lights (Official Video)",
+            "overview": "Official music video for 'Blinding Lights' by The Weeknd",
+            "release_date": "2020-01-21",
+            "vote_average": 9.7,
+            "vote_count": 723914758,
+            "poster_path": "https://i.ytimg.com/vi/4NRXx6U8ABQ/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "4NRXx6U8ABQ"
+        },
+        {
+            "id": 47,
+            "title": "Olivia Rodrigo - drivers license (Official Video)",
+            "overview": "Official video for Olivia Rodrigo's 'drivers license'",
+            "release_date": "2021-01-08",
+            "vote_average": 9.6,
+            "vote_count": 347102983,
+            "poster_path": "https://i.ytimg.com/vi/ZmDBbnmKpqQ/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "ZmDBbnmKpqQ"
+        },
+        {
+            "id": 48,
+            "title": "Dua Lipa - Don't Start Now (Official Music Video)",
+            "overview": "Official music video for 'Don't Start Now' by Dua Lipa",
+            "release_date": "2019-11-01",
+            "vote_average": 9.4,
+            "vote_count": 521789654,
+            "poster_path": "https://i.ytimg.com/vi/oygrmJFKYZY/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "oygrmJFKYZY"
+        },
+        {
+            "id": 49,
+            "title": "Halsey - Without Me",
+            "overview": "The official music video for Halsey's 'Without Me'.",
+            "release_date": "2018-10-09",
+            "vote_average": 9.5,
+            "vote_count": 496321783,
+            "poster_path": "https://i.ytimg.com/vi/ZAfAud_M_mg/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "ZAfAud_M_mg"
+        },
+        {
+            "id": 50,
+            "title": "Post Malone, Swae Lee - Sunflower (Spider-Man: Into the Spider-Verse)",
+            "overview": "Official music video for 'Sunflower' by Post Malone and Swae Lee",
+            "release_date": "2018-10-19",
+            "vote_average": 9.6,
+            "vote_count": 1384173210,
+            "poster_path": "https://i.ytimg.com/vi/ApXoWvfEYVU/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "ApXoWvfEYVU"
+        },
+        {
+            "id": 51,
+            "title": "BTS (방탄소년단) 'Dynamite' Official MV",
+            "overview": "BTS (방탄소년단) 'Dynamite' Official MV",
+            "release_date": "2020-08-21",
+            "vote_average": 9.9,
+            "vote_count": 1324910987,
+            "poster_path": "https://i.ytimg.com/vi/gdZLi9oWNZg/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "gdZLi9oWNZg"
+        },
+        {
+            "id": 52,
+            "title": "BLACKPINK - 'Kill This Love' M/V",
+            "overview": "The official music video for 'Kill This Love' by BLACKPINK",
+            "release_date": "2019-04-04",
+            "vote_average": 9.8,
+            "vote_count": 1517890123,
+            "poster_path": "https://i.ytimg.com/vi/2S24-y0Ij3Y/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "2S24-y0Ij3Y"
+        },
+        {
+            "id": 53,
+            "title": "Travis Scott - SICKO MODE (Official Video)",
+            "overview": "Official video for Travis Scott's 'SICKO MODE'",
+            "release_date": "2018-10-19",
+            "vote_average": 9.7,
+            "vote_count": 781491827,
+            "poster_path": "https://i.ytimg.com/vi/6ONRf7h3Mdk/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "6ONRf7h3Mdk"
         }
     ],
     "total_pages": 1,
-    "total_results": 43 
+    "total_results": 53
 }
