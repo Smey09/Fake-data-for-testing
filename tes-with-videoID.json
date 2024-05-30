@@ -492,7 +492,7 @@
             "release_date": "2019-01-18",
             "vote_average": 9.5,
             "vote_count": 1205932827,
-            "poster_path": "https://i.ytimg.com/vi/QYh6mYIJG2Y/maxresdefault.jpg",
+            "poster_path": "https://i.ytimg.com/vi/QYh6mYIJG2Y/sddefault.jpg?v=5fff7440",
             "type_movie": "Official Music Video",
             "video_play_id": "QYh6mYIJG2Y"
         },
@@ -594,8 +594,228 @@
             "poster_path": "https://i.ytimg.com/vi/6ONRf7h3Mdk/maxresdefault.jpg",
             "type_movie": "Official Music Video",
             "video_play_id": "6ONRf7h3Mdk"
+        },
+        {
+            "id": 54,
+            "title": "Coldplay - Hymn For The Weekend",
+            "overview": "The official music video for 'Hymn For The Weekend' by Coldplay",
+            "release_date": "2015-12-18",
+            "vote_average": 9.6,
+            "vote_count": 1234567890,
+            "poster_path": "https://i.ytimg.com/vi/Uqy9Y_b0210/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "Uqy9Y_b0210"
+        },
+        {
+            "id": 55,
+            "title": "Maroon 5 - Sugar",
+            "overview": "The official music video for 'Sugar' by Maroon 5",
+            "release_date": "2015-01-14",
+            "vote_average": 9.5,
+            "vote_count": 9876543210,
+            "poster_path": "https://i.ytimg.com/vi/0z_h0pbl5_M/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "0z_h0pbl5_M"
+        },
+        {
+            "id": 56,
+            "title": "Ed Sheeran - Thinking Out Loud",
+            "overview": "The official music video for 'Thinking Out Loud' by Ed Sheeran",
+            "release_date": "2014-07-07",
+            "vote_average": 9.4,
+            "vote_count": 8765432109,
+            "poster_path": "https://i.ytimg.com/vi/x9f_uS1oK_M/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "x9f_uS1oK_M"
+        },
+        {
+            "id": 57,
+            "title": "Mark Ronson - Uptown Funk ft. Bruno Mars",
+            "overview": "The official music video for 'Uptown Funk' by Mark Ronson ft. Bruno Mars",
+            "release_date": "2014-11-10",
+            "vote_average": 9.3,
+            "vote_count": 7654321098,
+            "poster_path": "https://i.ytimg.com/vi_0h2_mF5Y3vk/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "0h2_mF5Y3vk"
+        },
+        {
+            "id": 58,
+            "title": "Taylor Swift - Shake It Off",
+            "overview": "The official music video for 'Shake It Off' by Taylor Swift",
+            "release_date": "2014-08-18",
+            "vote_average": 9.2,
+            "vote_count": 6543210987,
+            "poster_path": "https://i.ytimg.com/vi_nfWlot6s_7o/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "nfWlot6s_7o"
+        },
+        {
+            "id": 59,
+            "title": "Adele - Hello",
+            "overview": "The official music video for 'Hello' by Adele",
+            "release_date": "2015-10-23",
+            "vote_average": 9.1,
+            "vote_count": 5432109876,
+            "poster_path": "https://i.ytimg.com/vi_YQmON9oIOcc/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "YQmON9oIOcc"
+        },
+        {
+            "id": 60,
+            "title": "The Weeknd - Starboy",
+            "overview": "The official music video for 'Starboy' by The Weeknd",
+            "release_date": "2016-11-25",
+            "vote_average": 9.0,
+            "vote_count": 4321098765,
+            "poster_path": "https://i.ytimg.com/vi_xFw_6V6_7C4/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "xFw_6V6_7C4"
+        },
+        {
+            "id": 61,
+            "title": "Drake - God's Plan",
+            "overview": "The official music video for 'God's Plan' by Drake",
+            "release_date": "2018-01-19",
+            "vote_average": 8.9,
+            "vote_count": 3210987654,
+            "poster_path": "https://i.ytimg.com/vi_UXXAgJD_BRU/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "UXXAgJD_BRU"
+        },
+        {
+            "id": 62,
+            "title": "Ed Sheeran - Perfect",
+            "overview": "The official music video for 'Perfect' by Ed Sheeran",
+            "release_date": "2017-11-30",
+            "vote_average": 8.8,
+            "vote_count": 2109876543,
+            "poster_path": "https://i.ytimg.com/vi_2Uk5sMV_Udk/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "2Uk5sMV_Udk"
+        },
+        {
+            "id": 63,
+            "title": "Post Malone - Rockstar ft. 21 Savage",
+            "overview": "The official music video for 'Rockstar' by Post Malone ft. 21 Savage",
+            "release_date": "2017-08-15",
+            "vote_average": 8.7,
+            "vote_count": 1098765432,
+            "poster_path": "https://i.ytimg.com/vi_o_4zJIo80_I/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "o_4zJIo80_I"
+        },
+        {
+            "id": 64,
+            "title": "Harry Styles - Watermelon Sugar (Official Video)",
+            "overview": "The official music video for Harry Styles' 'Watermelon Sugar'.",
+            "release_date": "2020-05-18",
+            "vote_average": 9.7,
+            "vote_count": 628374923,
+            "poster_path": "https://i.ytimg.com/vi/E07s5ZYygMg/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "E07s5ZYygMg"
+        },
+        {
+            "id": 65,
+            "title": "Doja Cat - Say So (Official Video)",
+            "overview": "The official music video for Doja Cat's 'Say So'.",
+            "release_date": "2020-02-27",
+            "vote_average": 9.6,
+            "vote_count": 512346289,
+            "poster_path": "https://i.ytimg.com/vi/pok8H_KF1FA/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "pok8H_KF1FA"
+        },
+        {
+            "id": 66,
+            "title": "Justin Bieber - Peaches ft. Daniel Caesar, Giveon",
+            "overview": "The official music video for Justin Bieber's 'Peaches' featuring Daniel Caesar and Giveon.",
+            "release_date": "2021-03-19",
+            "vote_average": 9.5,
+            "vote_count": 489237614,
+            "poster_path": "https://i.ytimg.com/vi/tQ0yjYUFKAE/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "tQ0yjYUFKAE"
+        },
+        {
+            "id": 67,
+            "title": "Olivia Rodrigo - good 4 u (Official Video)",
+            "overview": "The official music video for Olivia Rodrigo's 'good 4 u'.",
+            "release_date": "2021-05-14",
+            "vote_average": 9.7,
+            "vote_count": 723014805,
+            "poster_path": "https://i.ytimg.com/vi/gNi_6U5Pm_o/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "gNi_6U5Pm_o"
+        },
+        {
+            "id": 68,
+            "title": "BTS (방탄소년단) 'Butter' Official MV",
+            "overview": "The official music video for BTS' 'Butter'.",
+            "release_date": "2021-05-21",
+            "vote_average": 9.9,
+            "vote_count": 1182930274,
+            "poster_path": "https://i.ytimg.com/vi/WMweEpGlu_U/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "WMweEpGlu_U"
+        },
+        {
+            "id": 69,
+            "title": "The Kid LAROI, Justin Bieber - STAY (Official Video)",
+            "overview": "The official music video for 'STAY' by The Kid LAROI and Justin Bieber.",
+            "release_date": "2021-07-09",
+            "vote_average": 9.8,
+            "vote_count": 913284728,
+            "poster_path": "https://i.ytimg.com/vi/kTJczUoc26U/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "kTJczUoc26U"
+        },
+        {
+            "id": 70,
+            "title": "Lil Nas X - INDUSTRY BABY (feat. Jack Harlow)",
+            "overview": "The official music video for 'INDUSTRY BABY' by Lil Nas X featuring Jack Harlow.",
+            "release_date": "2021-07-23",
+            "vote_average": 9.6,
+            "vote_count": 836527921,
+            "poster_path": "https://i.ytimg.com/vi/UTHLKHL_whs/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "UTHLKHL_whs"
+        },
+        {
+            "id": 71,
+            "title": "Billie Eilish - Happier Than Ever (Official Music Video)",
+            "overview": "The official music video for 'Happier Than Ever' by Billie Eilish.",
+            "release_date": "2021-07-30",
+            "vote_average": 9.5,
+            "vote_count": 743286502,
+            "poster_path": "https://i.ytimg.com/vi/5GJWxDKyk3A/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "5GJWxDKyk3A"
+        },
+        {
+            "id": 72,
+            "title": "Adele - Easy On Me (Official Video)",
+            "overview": "The official music video for Adele's 'Easy On Me'.",
+            "release_date": "2021-10-15",
+            "vote_average": 9.9,
+            "vote_count": 982374623,
+            "poster_path": "https://i.ytimg.com/vi/U3ASj1L6_sY/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "U3ASj1L6_sY"
+        },
+        {
+            "id": 73,
+            "title": "Olivia Rodrigo - deja vu (Official Video)",
+            "overview": "The official music video for Olivia Rodrigo's 'deja vu'.",
+            "release_date": "2021-04-01",
+            "vote_average": 9.7,
+            "vote_count": 623814573,
+            "poster_path": "https://i.ytimg.com/vi/cii6ruuycQA/maxresdefault.jpg",
+            "type_movie": "Official Music Video",
+            "video_play_id": "cii6ruuycQA"
         }
     ],
     "total_pages": 1,
-    "total_results": 53
+    "total_results": 73
 }
